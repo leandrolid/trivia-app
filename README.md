@@ -23,7 +23,7 @@
 
 ## Preview
 
-<a title="Trivia App" href="https://trivia-app-mocha.vercel.app/" >Clique aqui </a> para ter acesso a um  preview do App. Ele foi desenvolvido pensando prioritariamente no mobile, então no celular a experiência será melhor. <br>
+<a title="Trivia App" href="https://trivia-app-mocha.vercel.app/" >Clique aqui </a> para ter acesso a um  preview do App.
 
 ## Sobre o Trivia App 
 
