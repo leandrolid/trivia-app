@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+# Trivia App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrolid/trivia-app?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/leandrolid/trivia-app?color=6E40C9&style=flat-square">
+  <a href="https://github.com/leandrolid/trivia-app/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leandrolid/trivia-app?color=6E40C9&style=flat-square">
+  </a>
+</p>
 
-## Available Scripts
+## Tópicos 
 
-In the project directory, you can run:
+[Preview](#preview)
 
-### `yarn start`
+[Sobre o Trybe Recipes](#sobre-o-trivia-app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Tecnologias](#tecnologias)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Instalação e uso](#instalação-e-uso)
 
-### `yarn test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Preview
 
-### `yarn build`
+<a title="Trivia App" href="https://trivia-app-mocha.vercel.app/" >Clique aqui </a> para ter acesso a um  preview do App. Ele foi desenvolvido pensando prioritariamente no mobile, então no celular a experiência será melhor. <br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Sobre o Trivia App 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Essa é a minha versão do desafio técnico para a Wa Project. Se trata de um app de trivia no qual você tem a opção de escolher quantas perguntas quer responder e no fim recebe um relatório do seu desempenho. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O app foi feito usando React e a Context API, Styled Components e Axios para recuperar a informação da API que fornece as questões.
 
-### `yarn eject`
+<br>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<p align="center">
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tecnologias
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [VS Code](https://code.visualstudio.com/) com [ESLint](https://eslint.org/)
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Instalação e uso
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone git@github.com:leandrolid/trivia-app.git
+# ou use a opção de download.
+
+# Entre na pasta web com 
+cd trivia-app
+
+# Instale as dependências
+yarn install
+
+# Rode o aplicação
+yarn dev
+
+# Acesse http://localhost:3000 no seu navagador.
+```
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Leandro Liduvino](https://github.com/leandrolid)
