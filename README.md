@@ -13,7 +13,7 @@
 
 [Preview](#preview)
 
-[Sobre o Trybe Recipes](#sobre-o-trivia-app)
+[Sobre o Trivia App](#sobre-o-trivia-app)
 
 [Tecnologias](#tecnologias)
 
